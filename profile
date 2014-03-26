@@ -1,6 +1,7 @@
 # $FreeBSD: src/etc/profile,v 1.14 2004/06/06 11:46:27 schweikh Exp $
 #
-# System-wide .profile file for sh(1).
+# Edited by: tPhunk
+# Poor attempt at building a personalized sh(1) initialization 
 #
 # Uncomment this to give you the default 4.2 behavior, where disk
 # information is shown in K-Blocks
